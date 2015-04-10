@@ -6,3 +6,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	It would be disasterous if the remote version is an older version and it overwrites the changes you made at the local machine.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	forks: creating a copy of a repo on github servers
+	clones: creating a copy locally or from remote to local
+	branches: different versions within the same repo
+
