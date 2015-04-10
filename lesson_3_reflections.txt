@@ -21,3 +21,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	I would probably use dropbox or google drive for normal documents, but dropbox has trouble dealing with simultaneous editing and google drive is pretty laggy.
 	Putting two different documents would be easier with git, but the setup is quite complicated.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	When there is a new feature or a experimental feature that I want to try out I would use a new branch.
+
